@@ -1,11 +1,9 @@
-# test1
-test
-nailsbymarta
+# 𝓝𝓪𝓲𝓵𝓼𝓑𝔂𝓜𝓪𝓻𝓽𝓪
 <html lang="pl">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Paznokcie by Ania</title>
+  <title>𝓝𝓪𝓲𝓵𝓼𝓑𝔂𝓜𝓪𝓻𝓽𝓪</title>
   <style>
     body {
       margin: 0;
@@ -58,7 +56,7 @@ nailsbymarta
 </head>
 <body>
   <header>
-    <h1>Paznokcie by Ania</h1>
+    <h1>𝓝𝓪𝓲𝓵𝓼𝓑𝔂𝓜𝓪𝓻𝓽𝓪</h1>
     <p>Stylizacja paznokci | Zadbaj o piękno dłoni</p>
   </header>
 
@@ -67,6 +65,7 @@ nailsbymarta
     <a href="#oferta">Oferta</a>
     <a href="#galeria">Galeria</a>
     <a href="#kontakt">Kontakt</a>
+    <a href="#Zadowolone klientki">Zadowolone klientki</a>
   </nav>
 
   <section id="o-mnie">
@@ -80,7 +79,7 @@ Stawiam na indywidualne podejście do każdej osoby, która do mnie trafia. </p>
   <section id="oferta">
     <h2>Oferta i cennik</h2>
     <ul>
-      <li>Manicure hybrydowy – 90 zł</li>
+      <li>Manicure hybrydowy – 9990 zł</li>
       <li>Żel na naturalnej płytce – 120 zł</li>
       <li>Uzupełnienie żelu – 100 zł</li>
       <li>Zdobienia artystyczne – od 20 zł</li>
@@ -99,14 +98,14 @@ Stawiam na indywidualne podejście do każdej osoby, która do mnie trafia. </p>
 
   <section id="kontakt">
     <h2>Kontakt</h2>
-    <p><strong>Telefon:</strong> 123-456-789</p>
-    <p><strong>Instagram:</strong> @paznokciebyania</p>
-    <p><strong>Adres:</strong> ul. Kwiatowa 10, 00-000 Miasto</p>
+    <p><strong>Telefon:</strong> ponzniej</p>
+    <p><strong>Instagram:</strong> @chuj cie to</p>
+    <p><strong>Adres:</strong> ul. maly cwel214</p>
     <p><strong>Godziny pracy:</strong> Pon–Pt 10:00–18:00</p>
   </section>
 
   <footer>
-    &copy; 2025 Paznokcie by Ania – Wszystkie prawa zastrzeżone
+    &copy; 2025 Paznokcie by Marta – Wszystkie prawa zastrzeżone
   </footer>
 </body>
 </html>
