@@ -71,7 +71,10 @@ nailsbymarta
 
   <section id="o-mnie">
     <h2>O mnie</h2>
-    <p>Nazywam się Ania i od 5 lat zajmuję się profesjonalną stylizacją paznokci. Moim celem jest nie tylko estetyka, ale też zdrowie Twoich dłoni. Używam tylko certyfikowanych produktów i stawiam na indywidualne podejście do każdej klientki.</p>
+    <p> Nazywam się Marta. Zajmuję się profesjonalną stylizacją paznokci. W tej branży jestem od około roku i nadal się uczę.
+Moim celem jest nie tylko estetyka, ale także zdrowie Twoich dłoni.
+Używam wyłącznie certyfikowanych produktów i bardzo dbam o higienę – zarówno swoją, jak i moich klientek oraz klientów.
+Stawiam na indywidualne podejście do każdej osoby, która do mnie trafia. </p>
   </section>
 
   <section id="oferta">
