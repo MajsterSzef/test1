@@ -91,8 +91,9 @@ Stawiam na indywidualne podejście do każdej osoby, która do mnie trafia. </p>
   <section id="galeria">
     <h2>Galeria prac</h2>
     <div class="gallery">
-      <img src="https://via.placeholder.com/200x200.png?text=Stylizacja+1" alt="Stylizacja 1">
-      <img src="https://via.placeholder.com/200x200.png?text=Stylizacja+2" alt="Stylizacja 2">
+      <img src="blob:https://www.facebook.com/c5ef9803-f538-4b59-9e82-27900bf27bc0" alt="Stylizacja 1">
+      <img src="blob:https://www.facebook.com/c5ef9803-f538-4b59-9e82-27900bf27bc0
+        " alt="Stylizacja 2">
       <img src="https://via.placeholder.com/200x200.png?text=Stylizacja+3" alt="Stylizacja 3">
     </div>
   </section>
