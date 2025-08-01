@@ -37,7 +37,7 @@
       margin: auto;
     }
     h2 {
-      color: #c71585;
+      color: black;
     }
     .gallery img {
       width: 100%;
