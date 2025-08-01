@@ -6,8 +6,8 @@
   <title>𝓝𝓪𝓲𝓵𝓼𝓑𝔂𝓜𝓪𝓻𝓽𝓪</title>
   <style>
     body {
-    margin: 0;
-    font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+     font-family: 'Segoe UI', sans-serif;
       background-color: #FF69B4;
       color: #333;
     }
