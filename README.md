@@ -50,7 +50,7 @@
       background: #ffb6c1;
       text-align: center;
       padding: 20px;
-      margin-top: 430px;
+      margin-top: 40px;
     }
   </style>
 </head>
@@ -84,7 +84,7 @@ Stawiam na indywidualne podejście do każdej osoby, która do mnie trafia. </p>
       <li>Uzupełnienie żelu – 100 zł</li>
       <li>Zdobienia artystyczne – od 20 zł</li>
     </ul>
-    <p>Wszystkie ceny są orientacyjne. Rezerwacja terminu obowiązkowa.</p>
+    <p>Wszystkie ceny są orientacyjne. Z rezerwacja terminu zapraszam do kontaktu na moim Instagramie który znajduje się na samym dole strony.</p>
   </section>
 
   <section id="galeria">
