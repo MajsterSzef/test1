@@ -27,13 +27,14 @@
       font-size: 2.5rem;
     }
     nav {
-      background-image: url("https://i.postimg.cc/k5XLhwDj/pobrane-1.jpg");
+  background-image: url("https://i.postimg.cc/k5XLhwDj/pobrane-1.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   padding: 20px;
   text-align: center;
-    }
+  min-height: 100px; /* ← TO DODAJE WYSOKOŚĆ I TŁO BĘDZIE WIDOCZNE */
+}
     nav a {
       margin: 0 15px;
       color: #c71585;
