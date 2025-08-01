@@ -100,9 +100,11 @@ Stawiam na indywidualne podejście do każdej osoby, która do mnie trafia. </p>
   <section id="galeria">
     <h2>Galeria prac</h2>
     <div class="gallery">
-      <img src="C:\Users\lukac\Downloads\a7d8cdf2-b634-4272-a2c7-ac705b70fb06.jpg?text=Stylizacja+3" alt="Stylizacja 1">
+      <img src="https://i.postimg.cc/jqDYTstR/d76a882a-49a6-4ab2-a583-64b62e3f21d0.png" alt="Stylizacja 1">
       <img src="https://via.placeholder.com/200x200.png?text=Stylizacja+3" alt="Stylizacja 2">
       <img src="https://via.placeholder.com/200x200.png?text=Stylizacja+3" alt="Stylizacja 3">
+      <img src="https://via.placeholder.com/200x200.png?text=Stylizacja+3" alt="Stylizacja 4">
+      <img src="https://via.placeholder.com/200x200.png?text=Stylizacja+3" alt="Stylizacja 5">
     </div>
   </section>
 
