@@ -6,11 +6,14 @@
   <title>𝓝𝓪𝓲𝓵𝓼𝓑𝔂𝓜𝓪𝓻𝓽𝓪</title>
   <style>
     body {
-      margin: 0;
-   background-color: #e999f7; 
-  color: black;             
-  font-family: Arial, sans-serif; 
-    }
+  margin: 0;
+  background-image: url('https://i.imgur.com/wU8sHFd.jpeg');
+  background-size: cover;        /* Dopasowanie do całego ekranu */
+  background-repeat: no-repeat;  /* Nie powiela obrazka */
+  background-position: center;   /* Wyśrodkowanie */
+  color: black;
+  font-family: Arial, sans-serif;
+}
     header {
       background-color: #f17cf7;
       padding: 20px;
