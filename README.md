@@ -50,7 +50,7 @@
       background: #ffb6c1;
       text-align: center;
       padding: 20px;
-      margin-top: 40px;
+      margin-top: 430px;
     }
   </style>
 </head>
