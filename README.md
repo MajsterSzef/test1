@@ -37,7 +37,7 @@
 }
     nav a {
       margin: 0 15px;
-      color: #c71585;
+      color: #000000;
       text-decoration: none;
       font-weight: bold;
     }
@@ -47,7 +47,7 @@
       margin: auto;
     }
     h2 {
-      color: red;
+      color: black;
     }
     .gallery img {
       width: 100%;
