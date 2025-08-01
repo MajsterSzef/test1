@@ -15,10 +15,13 @@
   font-family: Arial, sans-serif;
 }
     header {
-      background-color: #f17cf7;
-      padding: 20px;
-      text-align: center;
-    }
+  background-image: url('https://i.postimg.cc/k5XLhwDj/pobrane-1.jpg'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 20px;
+  text-align: center;
+}
     header h1 {
       margin: 0;
       font-size: 2.5rem;
