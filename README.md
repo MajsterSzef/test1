@@ -7,9 +7,11 @@
   <style>
     body {
       margin: 0;
-        font-family: 'Segoe UI', sans-serif;
-        background-color: #FFC0CB;
-      color: #333;
+        body {
+  background-color: #ffc0cb; 
+  color: black;             
+  font-family: Arial, sans-serif;
+}
     }
     header {
       background-color: #ffb6c1;
