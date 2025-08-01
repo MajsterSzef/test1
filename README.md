@@ -14,7 +14,6 @@
   color: black;
   font-family: Arial, sans-serif;
 }
-  <style>
     header {
   background-image: url('https://i.postimg.cc/k5XLhwDj/pobrane-1.jpg'); 
   background-size: cover;
