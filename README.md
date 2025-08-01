@@ -12,7 +12,7 @@
   font-family: Arial, sans-serif; 
     }
     header {
-      background-color: #ffb6c1;
+      background-color: #f17cf7;
       padding: 20px;
       text-align: center;
     }
