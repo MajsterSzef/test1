@@ -29,7 +29,7 @@
     nav {
   background-image: url("https://i.postimg.cc/k5XLhwDj/pobrane-1.jpg");
   background-size: cover;
-  background-position: center;
+  background-position: 80% center;
   background-repeat: no-repeat;
   padding: 20px;
   text-align: center;
