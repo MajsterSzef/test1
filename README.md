@@ -7,11 +7,9 @@
   <style>
     body {
       margin: 0;
-        body {
-  background-color: #ffc0cb; 
+   background-color: #ffc0cb; 
   color: black;             
-  font-family: Arial, sans-serif;
-}
+  font-family: Arial, sans-serif; 
     }
     header {
       background-color: #ffb6c1;
