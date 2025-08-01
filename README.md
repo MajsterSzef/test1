@@ -37,7 +37,7 @@
 }
     nav a {
       margin: 0 15px;
-      color: #000000;
+      color: #000000
       text-decoration: none;
       font-weight: bold;
     }
