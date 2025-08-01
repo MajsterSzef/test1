@@ -7,7 +7,7 @@
   <style>
     body {
   margin: 0;
-  background-image: url('https://i.imgur.com/wGZOnU1.jpeg');
+  background-image: url('https://i.postimg.cc/q7yp41pp/pobrane.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
