@@ -21,7 +21,7 @@
       font-size: 2.5rem;
     }
     nav {
-      background: #fff;
+      background: #f77e7e;
       text-align: center;
       padding: 10px;
     }
