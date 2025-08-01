@@ -18,7 +18,7 @@
   background-image: url('https://i.postimg.cc/k5XLhwDj/pobrane-1.jpg'); 
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   padding: 20px;
   text-align: center;
 }
