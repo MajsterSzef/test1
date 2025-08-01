@@ -7,7 +7,7 @@
   <style>
     body {
       margin: 0;
-   background-color: #ffc0cb; 
+   background-color: #e999f7; 
   color: black;             
   font-family: Arial, sans-serif; 
     }
