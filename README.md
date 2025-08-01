@@ -7,9 +7,9 @@
   <style>
     body {
       margin: 0;
-     font-family: 'Segoe UI', sans-serif;
+        font-family: 'Segoe UI', sans-serif;
        background-color: #FF69B4;
-      color: #333;
+      color: #FF69B4;
     }
     header {
       background-color: #ffb6c1;
