@@ -7,7 +7,7 @@
   <style>
     body {
   margin: 0;
-  background-image: url('https://i.imgur.com/EXz8NOo.png');
+  background-image: url('https://i.imgur.com/EXz8NOo.jpng');
   background-size: cover;        /* Dopasowanie do całego ekranu */
   background-repeat: no-repeat;  /* Nie powiela obrazka */
   background-position: center;   /* Wyśrodkowanie */
