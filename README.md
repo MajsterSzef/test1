@@ -127,20 +127,6 @@
     </div>
   </section>
 
-<section id="Zadowolone-klientki">
-  <h2>Zadowolone klientki</h2>
-  <div class="carousel-container">
-    <div class="carousel-track">
-      <img src="https://i.imgur.com/FKJi855.jpeg" alt="Klientka 1" />
-      <img src="https://i.imgur.com/BevZj2t.jpeg" alt="Klientka 2" />
-      <img src="https://i.imgur.com/UVL9vg5.jpeg" alt="Klientka 3" />
-      <img src="https://i.imgur.com/DLJ0LDs.jpeg" alt="Klientka 4" />
-      <img src="https://i.postimg.cc/FzSDWCcJ/b6f7259e-6371-4ec1-93ef-db909e41a627.jpg" alt="Klientka 5" />
-      <!-- Możesz dodać więcej zdjęć -->
-    </div>
-  </div>
-</section>
-
   <section id="kontakt">
     <h2>Kontakt</h2>
     <p><strong>Telefon:</strong> ponzniej</p>
