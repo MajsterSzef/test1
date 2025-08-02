@@ -1,6 +1,3 @@
-h1 {
-  display: none;
-}
 # 𝓝𝓪𝓲𝓵𝓼𝓑𝔂𝓜𝓪𝓻𝓽𝓪
 <html lang="pl">
 <head>
