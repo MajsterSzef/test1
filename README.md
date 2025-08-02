@@ -12,7 +12,7 @@
       background-repeat: no-repeat;
       background-position: center;
       color: black;
-      font-family: Math bold italic, sans-serif;
+      font-family: Arial, sans-serif;
     }
     header {
       background-image: url('https://i.postimg.cc/k5XLhwDj/pobrane-1.jpg'); 
