@@ -6,35 +6,35 @@
   <title>𝓝𝓪𝓲𝓵𝓼𝓑𝔂𝓜𝓪𝓻𝓽𝓪</title>
   <style>
     body {
-  margin: 0;
-  background-image: url('https://i.imgur.com/wGZOnU1.jpeg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  color: black;
-  font-family: Arial, sans-serif;
-}
+      margin: 0;
+      background-image: url('https://i.imgur.com/wGZOnU1.jpeg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      color: black;
+      font-family: Arial, sans-serif;
+    }
     header {
-  background-image: url('https://i.postimg.cc/k5XLhwDj/pobrane-1.jpg'); 
-  background-size: cover;
-  background-position: 80% center;
-  background-repeat: repeat;
-  padding: 20px;
-  text-align: center;
-}
+      background-image: url('https://i.postimg.cc/k5XLhwDj/pobrane-1.jpg'); 
+      background-size: cover;
+      background-position: 80% center;
+      background-repeat: repeat;
+      padding: 20px;
+      text-align: center;
+    }
     header h1 {
       margin: 0;
       font-size: 2.5rem;
     }
     nav {
-  background-image: url("https://i.postimg.cc/k5XLhwDj/pobrane-1.jpg");
-  background-size: cover;
-  background-position: 80% center;
-  background-repeat: no-repeat;
-  padding: 20px;
-  text-align: center;
-  min-height: 100px; /* ← TO DODAJE WYSOKOŚĆ I TŁO BĘDZIE WIDOCZNE */
-}
+      background-image: url("https://i.postimg.cc/k5XLhwDj/pobrane-1.jpg");
+      background-size: cover;
+      background-position: 80% center;
+      background-repeat: no-repeat;
+      padding: 20px;
+      text-align: center;
+      min-height: 100px;
+    }
     nav a {
       margin: 0 15px;
       color: #000000;
@@ -80,10 +80,10 @@
 
   <section id="o-mnie">
     <h2>O mnie</h2>
-    <p> Nazywam się Marta. Zajmuję się profesjonalną stylizacją paznokci. W tej branży jestem od około roku i nadal się uczę.
-Moim celem jest nie tylko estetyka, ale także zdrowie Twoich dłoni.
-Używam wyłącznie certyfikowanych produktów i bardzo dbam o higienę – zarówno swoją, jak i moich klientek oraz klientów.
-Stawiam na indywidualne podejście do każdej osoby, która do mnie trafia. </p>
+    <p>Nazywam się Marta. Zajmuję się profesjonalną stylizacją paznokci. W tej branży jestem od około roku i nadal się uczę.
+    Moim celem jest nie tylko estetyka, ale także zdrowie Twoich dłoni.
+    Używam wyłącznie certyfikowanych produktów i bardzo dbam o higienę – zarówno swoją, jak i moich klientek oraz klientów.
+    Stawiam na indywidualne podejście do każdej osoby, która do mnie trafia.</p>
   </section>
 
   <section id="oferta">
@@ -107,7 +107,7 @@ Stawiam na indywidualne podejście do każdej osoby, która do mnie trafia. </p>
       <img src="https://i.postimg.cc/BQD6q54Z/ce176e77-852b-4161-b037-4c0ecfd7a211.jpg" alt="Stylizacja 5">
       <img src="https://i.postimg.cc/FKw8sS9m/21127e1a-cbeb-4be5-8fdb-e94fb907249a.jpg" alt="Stylizacja 6">
       <img src="https://i.postimg.cc/PJQR4F1r/ec07feaf-3e74-459e-9d11-29c42a25c74d.jpg" alt="Stylizacja 7">
-      <img src="https://i.postimg.cc/B6GpVBS8/b6f7259e-6371-4ec1-93ef-db909e41a627.jpg" alt="Stylizacja 8">
+      <img src="https://i.postimg.cc/m2hD0x69/e5355986-7b7d-46b9-bc33-b89edc87ac3d.jpg" alt="Stylizacja 8">
     </div>
   </section>
 
@@ -124,4 +124,5 @@ Stawiam na indywidualne podejście do każdej osoby, która do mnie trafia. </p>
   </footer>
 </body>
 </html>
+
 
