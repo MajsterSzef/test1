@@ -5,15 +5,21 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>𝓝𝓪𝓲𝓵𝓼𝓑𝔂𝓜𝓪𝓻𝓽𝓪</title>
   <style>
-    body {
-      margin: 0;
-      background-image: url('https://i.imgur.com/wGZOnU1.jpeg');
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-position: center;
-      color: black;
-      font-family: Kapitaliki, sans-serif;
-    }
+  body {
+    margin: 0;
+    background-image: url('https://i.imgur.com/wGZOnU1.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: black;
+    font-family: Arial, sans-serif;
+  }
+  label.kapitaliki {
+    font-family: Arial, sans-serif;
+    font-variant: small-caps;
+    text-transform: lowercase;
+  }
+</style>
     header {
       background-image: url('https://i.postimg.cc/k5XLhwDj/pobrane-1.jpg'); 
       background-size: cover;
