@@ -89,16 +89,16 @@
   </section>
 
   <section id="oferta">
-    <h2>Oferta</h2>
-    <ul>
-      <li>Manicure hybrydowy 
-      <li>Żel na naturalnej płytce 
-      <li>Uzupełnienie żelu 
-      <li>Przedłużanie na żelu
-      <li>różne zdobienia
-    </ul>
-    <p>Z rezerwacja terminu i cena zapraszam do kontaktu na moim Instagramie który znajduje się na samym dole strony.</p>
-  </section>
+  <h2>Oferta</h2>
+  <ul>
+    <li>Manicure hybrydowy</li>
+    <li>Żel na naturalnej płytce</li>
+    <li>Uzupełnienie żelu</li>
+    <li>Przedłużanie na żelu</li>
+    <li>Różne zdobienia</li>
+  </ul>
+  <p>Z rezerwacją terminu i ceną zapraszam do kontaktu na moim Instagramie, który znajduje się na samym dole strony.</p>
+</section>
 
   <section id="galeria">
     <h2>Galeria prac</h2>
