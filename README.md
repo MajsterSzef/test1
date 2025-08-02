@@ -6,7 +6,6 @@
   <style>
     body {
       margin: 0;
-      padding: 0;
       background-image: url('https://i.imgur.com/wGZOnU1.jpeg');
       background-size: cover;
       background-repeat: no-repeat;
