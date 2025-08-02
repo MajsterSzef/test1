@@ -100,11 +100,11 @@ Stawiam na indywidualne podejście do każdej osoby, która do mnie trafia. </p>
   <section id="galeria">
     <h2>Galeria prac</h2>
     <div class="gallery">
-      <img src="https://i.postimg.cc/jqDYTstR/d76a882a-49a6-4ab2-a583-64b62e3f21d0.png" alt="Stylizacja 1">
-      <img src="https://via.placeholder.com/200x200.png?text=Stylizacja+3" alt="Stylizacja 2">
-      <img src="https://via.placeholder.com/200x200.png?text=Stylizacja+3" alt="Stylizacja 3">
-      <img src="https://via.placeholder.com/200x200.png?text=Stylizacja+3" alt="Stylizacja 4">
-      <img src="https://via.placeholder.com/200x200.png?text=Stylizacja+3" alt="Stylizacja 5">
+      <img src="https://i.postimg.cc/m2hD0x69/e5355986-7b7d-46b9-bc33-b89edc87ac3d.jpg" alt="Stylizacja 1">
+      <img src="https://i.postimg.cc/YSxMv8sk/8a213367-348c-4628-ad13-1a43c0ed4a78.jpg" alt="Stylizacja 2">
+      <img src="https://i.postimg.cc/Y0vHy7qq/43dcac18-8668-4a2d-b1d1-9ee08464f0a9.jpg" alt="Stylizacja 3">
+      <img src="https://i.postimg.cc/v8KMx431/86929bf8-fef6-4f2f-ba74-9665e03519e2.jpg" alt="Stylizacja 4">
+      <img src="https://i.postimg.cc/BQD6q54Z/ce176e77-852b-4161-b037-4c0ecfd7a211.jpg" alt="Stylizacja 5">
     </div>
   </section>
 
