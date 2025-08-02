@@ -106,8 +106,8 @@ Stawiam na indywidualne podejście do każdej osoby, która do mnie trafia. </p>
       <img src="https://i.postimg.cc/v8KMx431/86929bf8-fef6-4f2f-ba74-9665e03519e2.jpg" alt="Stylizacja 4">
       <img src="https://i.postimg.cc/BQD6q54Z/ce176e77-852b-4161-b037-4c0ecfd7a211.jpg" alt="Stylizacja 5">
       <img src="https://i.postimg.cc/FKw8sS9m/21127e1a-cbeb-4be5-8fdb-e94fb907249a.jpg" alt="Stylizacja 6">
-      <img src="https://i.postimg.cc/TwmSyPwb/b6f7259e-6371-4ec1-93ef-db909e41a627.jpg" alt="Stylizacja 7">
-       <img src="https://i.postimg.cc/PJQR4F1r/ec07feaf-3e74-459e-9d11-29c42a25c74d.jpg" alt="Stylizacja 8">
+      <img src="https://i.postimg.cc/B6GpVBS8/b6f7259e-6371-4ec1-93ef-db909e41a627.jpg" alt="Stylizacja 7">
+      <img src="https://i.postimg.cc/PJQR4F1r/ec07feaf-3e74-459e-9d11-29c42a25c74d.jpg" alt="Stylizacja 8">
     </div>
   </section>
 
