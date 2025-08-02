@@ -1,4 +1,3 @@
-# 𝓝𝓪𝓲𝓵𝓼𝓑𝔂𝓜𝓪𝓻𝓽𝓪
 <html lang="pl">
 <head>
   <meta charset="UTF-8" />
