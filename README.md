@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="pl">
 <head>
   <meta charset="UTF-8" />
@@ -14,7 +15,7 @@
       font-family: Arial, sans-serif;
     }
 
-    /* 🔽 TO UKRYWA NIEBIESKI LINK OD GITHUBA */
+    /* Ukryj link do github.io */
     h1 a[href*="github.io"] {
       display: none !important;
     }
@@ -60,12 +61,38 @@
       color: black;
     }
 
-    .gallery img {
+    .gallery img,
+    .carousel-track img {
       width: 100%;
       max-width: 200px;
       margin: 10px;
       border-radius: 8px;
       box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    }
+
+    .gallery {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .carousel-container {
+      overflow: hidden;
+      position: relative;
+    }
+
+    .carousel-track {
+      display: flex;
+      animation: scroll 25s linear infinite;
+    }
+
+    @keyframes scroll {
+      0% {
+        transform: translateX(0%);
+      }
+      100% {
+        transform: translateX(-50%);
+      }
     }
 
     footer {
@@ -88,8 +115,8 @@
     <a href="#o-mnie">O mnie</a>
     <a href="#oferta">Oferta</a>
     <a href="#galeria">Galeria</a>
+    <a href="#zadowolone-klientki">Zadowolone klientki</a>
     <a href="#kontakt">Kontakt</a>
-    <a href="#Zadowolone-klientki">Zadowolone klientki</a>
   </nav>
 
   <section id="o-mnie">
@@ -124,6 +151,19 @@
       <img src="https://i.imgur.com/UVL9vg5.jpeg" alt="Stylizacja 7">
       <img src="https://i.postimg.cc/m2hD0x69/e5355986-7b7d-46b9-bc33-b89edc87ac3d.jpg" alt="Stylizacja 8">
       <img src="https://i.imgur.com/BevZj2t.jpeg" alt="Stylizacja 9">
+    </div>
+  </section>
+
+  <section id="zadowolone-klientki">
+    <h2>Zadowolone klientki</h2>
+    <div class="carousel-container">
+      <div class="carousel-track">
+        <img src="https://i.imgur.com/FKJi855.jpeg" alt="Klientka 1" />
+        <img src="https://i.imgur.com/BevZj2t.jpeg" alt="Klientka 2" />
+        <img src="https://i.imgur.com/UVL9vg5.jpeg" alt="Klientka 3" />
+        <img src="https://i.imgur.com/DLJ0LDs.jpeg" alt="Klientka 4" />
+        <img src="https://i.postimg.cc/FzSDWCcJ/b6f7259e-6371-4ec1-93ef-db909e41a627.jpg" alt="Klientka 5" />
+      </div>
     </div>
   </section>
 
