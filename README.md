@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pl">
 <head>
   <meta charset="UTF-8" />
@@ -15,7 +14,6 @@
       font-family: Arial, sans-serif;
     }
 
-    /* Ukryj link do github.io */
     h1 a[href*="github.io"] {
       display: none !important;
     }
@@ -61,38 +59,18 @@
       color: black;
     }
 
-    .gallery img,
-    .carousel-track img {
-      width: 100%;
-      max-width: 200px;
-      margin: 10px;
-      border-radius: 8px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-    }
-
     .gallery {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
     }
 
-    .carousel-container {
-      overflow: hidden;
-      position: relative;
-    }
-
-    .carousel-track {
-      display: flex;
-      animation: scroll 25s linear infinite;
-    }
-
-    @keyframes scroll {
-      0% {
-        transform: translateX(0%);
-      }
-      100% {
-        transform: translateX(-50%);
-      }
+    .gallery img {
+      width: 100%;
+      max-width: 200px;
+      margin: 10px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
     }
 
     footer {
@@ -156,14 +134,12 @@
 
   <section id="zadowolone-klientki">
     <h2>Zadowolone klientki</h2>
-    <div class="carousel-container">
-      <div class="carousel-track">
-        <img src="https://i.imgur.com/FKJi855.jpeg" alt="Klientka 1" />
-        <img src="https://i.imgur.com/BevZj2t.jpeg" alt="Klientka 2" />
-        <img src="https://i.imgur.com/UVL9vg5.jpeg" alt="Klientka 3" />
-        <img src="https://i.imgur.com/DLJ0LDs.jpeg" alt="Klientka 4" />
-        <img src="https://i.postimg.cc/FzSDWCcJ/b6f7259e-6371-4ec1-93ef-db909e41a627.jpg" alt="Klientka 5" />
-      </div>
+    <div class="gallery">
+      <img src="https://i.imgur.com/FKJi855.jpeg" alt="Klientka 1" />
+      <img src="https://i.imgur.com/BevZj2t.jpeg" alt="Klientka 2" />
+      <img src="https://i.imgur.com/UVL9vg5.jpeg" alt="Klientka 3" />
+      <img src="https://i.imgur.com/DLJ0LDs.jpeg" alt="Klientka 4" />
+      <img src="https://i.postimg.cc/FzSDWCcJ/b6f7259e-6371-4ec1-93ef-db909e41a627.jpg" alt="Klientka 5" />
     </div>
   </section>
 
