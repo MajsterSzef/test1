@@ -57,10 +57,12 @@
       box-shadow: 0 2px 6px rgba(0,0,0,0.2);
     }
     footer {
-      background: #ffb6c1;
-      text-align: center;
+      background-image: url('https://i.postimg.cc/k5XLhwDj/pobrane-1.jpg');
+      background-size: cover;
+      background-position: center;
+      color: black;
       padding: 20px;
-      margin-top: 40px;
+      text-align: center;
     }
   </style>
 </head>
