@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>𝓝𝓪𝓲𝓵𝓼𝓑𝔂𝓜𝓪𝓻𝓽𝓪</title>
 
-  <!-- Google Font: Roboto Slab bold italic -->
-  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:ital,wght@1,700&display=swap" rel="stylesheet">
+  <!-- Ładujemy ozdobną czcionkę -->
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
 
   <style>
     body {
@@ -16,9 +16,8 @@
       background-repeat: no-repeat;
       background-position: center;
       color: black;
-      font-family: 'Roboto Slab', serif;
-      font-style: italic;
-      font-weight: bold;
+      font-family: 'Dancing Script', cursive;
+      font-size: 18px;
     }
 
     h1 {
@@ -136,9 +135,9 @@
 
   <section id="kontakt">
     <h2>Kontakt</h2>
-    <p><strong>Telefon:</strong> (podaj tutaj numer)</p>
-    <p><strong>Instagram:</strong> (tu wpisz prawidłową nazwę)</p>
-    <p><strong>Adres:</strong> (tu wpisz adres lub usuń)</p>
+    <p><strong>Telefon:</strong> (tu wpisz)</p>
+    <p><strong>Instagram:</strong> (tu wpisz)</p>
+    <p><strong>Adres:</strong> (tu wpisz lub usuń)</p>
     <p><strong>Godziny pracy:</strong> Pon–Pt 10:00–18:00</p>
   </section>
 
