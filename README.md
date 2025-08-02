@@ -103,11 +103,11 @@
     <h2>Galeria prac</h2>
     <div class="gallery">
   <img src="https://i.postimg.cc/FzSDWCcJ/b6f7259e-6371-4ec1-93ef-db909e41a627.jpg" alt="Stylizacja 1">
-  <img src="https://i.postimg.cc/YSxMv8sk/8a213367-348c-4628-ad13-1a43c0ed4a78.jpg" alt="Stylizacja 2">
+  <img src="https://i.imgur.com/FKJi855.jpeg" alt="Stylizacja 2">
   <img src="https://i.postimg.cc/Y0vHy7qq/43dcac18-8668-4a2d-b1d1-9ee08464f0a9.jpg" alt="Stylizacja 3">
   <img src="https://i.postimg.cc/v8KMx431/86929bf8-fef6-4f2f-ba74-9665e03519e2.jpg" alt="Stylizacja 4">
   <img src="https://i.imgur.com/RjIzpEI.jpeg" alt="Stylizacja 5">
-  <img src="https://i.postimg.cc/FKw8sS9m/21127e1a-cbeb-4be5-8fdb-e94fb907249a.jpg" alt="Stylizacja 6">
+  <img src="https://i.imgur.com/DLJ0LDs.jpeg" alt="Stylizacja 6">
   <img src="https://i.imgur.com/UVL9vg5.jpeg" alt="Stylizacja 7">
   <img src="https://i.postimg.cc/m2hD0x69/e5355986-7b7d-46b9-bc33-b89edc87ac3d.jpg" alt="Stylizacja 8">
   <img src="https://i.imgur.com/BevZj2t.jpeg" alt="Stylizacja 9">
