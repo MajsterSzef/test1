@@ -89,14 +89,15 @@
   </section>
 
   <section id="oferta">
-    <h2>Oferta i cennik</h2>
+    <h2>Oferta</h2>
     <ul>
-      <li>Manicure hybrydowy – 9990 zł</li>
-      <li>Żel na naturalnej płytce – 120 zł</li>
-      <li>Uzupełnienie żelu – 100 zł</li>
-      <li>Zdobienia artystyczne – od 20 zł</li>
+      <li>Manicure hybrydowy 
+      <li>Żel na naturalnej płytce 
+      <li>Uzupełnienie żelu 
+      <li>Przedłużanie na żelu
+      <li>różne zdobienia
     </ul>
-    <p>Wszystkie ceny są orientacyjne. Z rezerwacja terminu zapraszam do kontaktu na moim Instagramie który znajduje się na samym dole strony.</p>
+    <p>Z rezerwacja terminu i cena zapraszam do kontaktu na moim Instagramie który znajduje się na samym dole strony.</p>
   </section>
 
   <section id="galeria">
