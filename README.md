@@ -100,6 +100,7 @@
   <section id="galeria">
     <h2>Galeria prac</h2>
     <div class="gallery">
+      <img src="https://i.postimg.cc/8PBb76bD/c22727bf-6daa-46f5-a6f4-069ab14db2d1.png" alt="Stylizacja 1">
       <img src="https://i.postimg.cc/YSxMv8sk/8a213367-348c-4628-ad13-1a43c0ed4a78.jpg" alt="Stylizacja 2">
       <img src="https://i.postimg.cc/Y0vHy7qq/43dcac18-8668-4a2d-b1d1-9ee08464f0a9.jpg" alt="Stylizacja 3">
       <img src="https://i.postimg.cc/v8KMx431/86929bf8-fef6-4f2f-ba74-9665e03519e2.jpg" alt="Stylizacja 4">
