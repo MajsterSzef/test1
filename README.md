@@ -140,10 +140,6 @@
       <img src="https://i.imgur.com/1JGynoA.jpeg" alt="Klientka 3" />
       <img src="https://i.imgur.com/Z80RBEK.jpeg" alt="Klientka 4" />
       <img src="https://i.imgur.com/nG1OLjL.jpeg" alt="Klientka 5" />
-      <img src="tuti" alt="Klientka 6" />
-      <img src="tuti" alt="Klientka 7" />
-      <img src="tuti" alt="Klientka 8" />
-      <img src="tuti" alt="Klientka 9" />
     </div>
   </section>
 
