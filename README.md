@@ -135,11 +135,11 @@
   <section id="zadowolone-klientki">
     <h2>Zadowolone klientki</h2>
     <div class="gallery">
-      <img src="https://i.imgur.com/FKJi855.jpeg" alt="Klientka 1" />
-      <img src="tuti" alt="Klientka 2" />
-      <img src="tuti" alt="Klientka 3" />
-      <img src="tuti" alt="Klientka 4" />
-      <img src="tuti" alt="Klientka 5" />
+      <img src="https://i.imgur.com/j2nkF0J.jpeg" alt="Klientka 1" />
+      <img src="https://i.imgur.com/8ESqosx.jpeg" alt="Klientka 2" />
+      <img src="https://i.imgur.com/1JGynoA.jpeg" alt="Klientka 3" />
+      <img src="https://i.imgur.com/Z80RBEK.jpeg" alt="Klientka 4" />
+      <img src="https://i.imgur.com/nG1OLjL.jpeg" alt="Klientka 5" />
       <img src="tuti" alt="Klientka 6" />
       <img src="tuti" alt="Klientka 7" />
       <img src="tuti" alt="Klientka 8" />
