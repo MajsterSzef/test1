@@ -93,7 +93,7 @@
     <a href="#o-mnie">O mnie</a>
     <a href="#oferta">Oferta</a>
     <a href="#galeria">Galeria</a>
-    <a href="#zadowolone-klientki">Zadowolone klientki</a>
+    <a href="#Opinie">Opinie</a>
     <a href="#kontakt">Kontakt</a>
   </nav>
 
@@ -132,8 +132,8 @@
     </div>
   </section>
 
-  <section id="zadowolone-klientki">
-    <h2>Zadowolone klientki</h2>
+  <section id="Opinie">
+    <h2>Opinie</h2>
     <div class="gallery">
       <img src="https://i.imgur.com/j2nkF0J.jpeg" alt="Klientka 1" />
       <img src="https://i.imgur.com/8ESqosx.jpeg" alt="Klientka 2" />
@@ -145,7 +145,6 @@
 
   <section id="kontakt">
     <h2>Kontakt</h2>
-    <p><strong>Telefon:</strong> 539 044 101</p>
     <p><strong>Instagram:</strong> nails_bymavta</p>
   </section>
 
