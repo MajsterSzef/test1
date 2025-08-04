@@ -147,8 +147,6 @@
     <h2>Kontakt</h2>
     <p><strong>Telefon:</strong> 539 044 101</p>
     <p><strong>Instagram:</strong> nails_bymavta</p>
-    <p><strong>Adres:</strong> ul. maly cwel214</p>
-    <p><strong>Godziny pracy:</strong> Pon–Pt 10:00–18:00</p>
   </section>
 
   <footer>
